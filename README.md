@@ -24,7 +24,7 @@ Usage
 2) Directory
    a) "lib/datasets/voc_dataset_evaluator.py" set your dataset path.
    b) "configs/soma_starting/e2e_mask_rcnn_soma_dsn_body.yaml" and "configs/cell_tracking_baseline/e2e_mask_rcnn_N3DH_SIM_dsn_body.yaml" set your catch path (DATA_DIR) for temperary roidb.
-   c) "train.sh" set your python exe path
+   c) "train.sh" set your python exe path.
 3) Training
    Run "tools/train_net_step.py" with setting the DEBUG as True or run "train.sh" with DEBUG as False, note that the former will not save snapshort models.
 4) Testing
