@@ -30,7 +30,7 @@ Usage
 4) Testing  
    a) Well-trained models are "model/nuclei/model_step8999.pth" and "model/soma/model_step5999.pth" for two datasets.  
    b) Config files are "configs/cell_tracking_baseline/e2e_mask_rcnn_N3DH_SIM_dsn_body.yaml" and "configs/soma_starting/e2e_mask_rcnn_soma_dsn_body.yaml" for two datasets.  
-   c) Set PRM_ON as True in "***.yaml" if need generate corresponding PRM results.  
+   c) Set PRM_ON as True in "***.yaml" if generating corresponding PRM results is needed.  
    d) Run "tools/infer_simple.py" and with proper modifications to args.  
 5) Binarization  
    a) "tools/binarization_nuclei.py" for nuclei data binarization.  
