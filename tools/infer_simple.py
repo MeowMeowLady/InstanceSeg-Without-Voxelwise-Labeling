@@ -85,6 +85,7 @@ def main():
     args.dataset = 'nuclei'#'soma'#
     args.cfg_file = '../configs/cell_tracking_baseline/e2e_mask_rcnn_N3DH_SIM_dsn_body.yaml'
     args.image_dir = '../data/cell-tracking-challenge/Fluo-N3DH-SIM+_Train'
+    args.images = []
     args.num_workers = 0
     args.batch_size = 1
     args.use_tfboard = True
