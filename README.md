@@ -14,7 +14,7 @@ Prerequisites
 3) other:  
          scikit-image  
          libtiff  
-4) the code are tested on python3.6 and pytorch0.4.0  
+4) the code is tested on python3.6 and pytorch0.4.0  
 
 Usage  
 
