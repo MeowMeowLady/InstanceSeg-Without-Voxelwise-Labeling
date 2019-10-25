@@ -36,9 +36,9 @@ Usage
    a) "tools/binarization_nuclei.py" for nuclei data binarization.  
    b) "tools/binarization_soma.py" for soma data binarization.  
 6) Evaluation  
-   a) "tools/evaluation/eval_instance_segmentation_soma.py" for evaluating soma instance segmentation performance, and the metric is AP. 
+   a) "tools/evaluation/eval_instance_segmentation_soma.py" for evaluating soma instance segmentation performance, and the metric is AP.  
    b) "tools/evaluation/eval_instance_segmentation_soma_ngps.py" for evaluating soma instance segmentation performance of NeuroGPS or semantic segmentation method like DSN, and the metric is AP. 
-   c) "tools/evaluation/evaluation_nuclei_f1score.py" for evaluating nulei detection performance and the metric is F1-score.  
+   c) "tools/evaluation/evaluation_nuclei_f1score.py" for evaluating nulei detection performance and the metric is F1-score. 
    d) "tools/evaluation/evaluation_nuclei_f1score_seg.py" for evaluating nulei instance segmentation performance and the metric is F1-score.  
 
 Citation
