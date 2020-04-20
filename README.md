@@ -45,3 +45,6 @@ Citation
 
 If you find the code useful for your research, please cite: 
 Dong M, Liu D, Xiong Z, et al. Instance Segmentation from Volumetric Biomedical Images Without Voxel-Wise Labeling[C]//International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2019: 83-91.
+
+Note:
+There is a typo in the experiment part of our MICCAI paper： The input size for our mouse brain dataset is 128*256*256 instead of 12*256*256.
